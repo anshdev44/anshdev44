@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Full Stack MERN applications and improving backend architecture.<br><br>👯 I’m looking to collaborate on  <br>Open-source MERN projects and real world web applications.<br><br>🤝 I’m looking for help with  <br>Scalable backend systems, DevOps basics, and system design.<br><br>🌱 I’m currently learning  <br>Advanced Backend Development, System Design, and DevOps fundamentals.<br><br>💬 Ask me about  <br>React, Node.js, MongoDB, REST APIs, and Full Stack development.<br><br>⚡ Fun fact  <br>I love building interactive web apps and solving DSA problems in my free time.
+🔭 I’m currently working on  <br>Full Stack MERN applications and improving backend architecture.<br><br>👯 I’m looking to collaborate on  <br>Open-source MERN projects and real world web applications.<br><br>🤝 I’m looking for help with  <br>Scalable backend systems, DevOps basics, and system design.<br><br>🌱 I’m currently learning  <br>Advanced Backend Development,  and DevOps fundamentals.<br><br>💬 Ask me about  <br>React, Node.js, MongoDB, REST APIs, and Full Stack development.<br><br>⚡ Fun fact  <br>I love building interactive web apps and solving DSA problems in my free time.
 
 
 ## 🌐 Socials:
