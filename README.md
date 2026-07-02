@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on  <br>Full Stack MERN applications and improving backend architecture.<br><br>👯 I’m looking to collaborate on  <br>Open-source MERN projects and real world web applications.<br><br>🤝 I’m looking for help with  <br>Scalable backend systems, DevOps basics, and system design.<br><br>🌱 I’m currently learning  <br>Advanced Backend Development,  and DevOps fundamentals.<br><br>💬 Ask me about  <br>React, Node.js, MongoDB, REST APIs, and Full Stack development.<br><br>⚡ Fun fact  <br>I love building interactive web apps and solving DSA problems in my free time.
 
+![](https://komarev.com/ghpvc/?username=anshdev44&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ansh_ah0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-ahuja-3081662b9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshahuja770@gmail.com) 
