@@ -18,7 +18,7 @@
 ### 🎓 Education
 - **Indian Institute of Information Technology Vadodara (IIIT Vadodara)**
   - B.Tech in Computer Science and Engineering *(Aug 2024 – Jun 2028)*
-  - CGPA: **7.5**
+  
 
 ---
 
