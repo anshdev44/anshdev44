@@ -1,26 +1,63 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Full Stack MERN applications and improving backend architecture.<br><br>👯 I’m looking to collaborate on  <br>Open-source MERN projects and real world web applications.<br><br>🤝 I’m looking for help with  <br>Scalable backend systems, DevOps basics, and system design.<br><br>🌱 I’m currently learning  <br>Advanced Backend Development,  and DevOps fundamentals.<br><br>💬 Ask me about  <br>React, Node.js, MongoDB, REST APIs, and Full Stack development.<br><br>⚡ Fun fact  <br>I love building interactive web apps and solving DSA problems in my free time.
+<div align="center">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./output.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./output.gif">
+    <img alt="Terminal - anshdev44" src="./output.gif">
+</picture>
 
-![](https://komarev.com/ghpvc/?username=anshdev44&label=Profile%20Views&color=0e75b6&style=flat)
+<br>
 
+<sub><i>Generated automatically using [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) on Tue Oct 27 11:50:57 AM UTC+05:30 2026</i></sub>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ansh_ah0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-ahuja-3081662b9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshahuja770@gmail.com) 
+<br><br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anshdev44&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anshdev44&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshdev44&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<details open>
+<summary><b>👨‍💻 Detailed Profile & Information</b></summary>
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anshdev44&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🎓 Education
+- **Indian Institute of Information Technology Vadodara (IIIT Vadodara)**
+  - B.Tech in Computer Science and Engineering *(Aug 2024 – Jun 2028)*
+  - CGPA: **7.5**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anshdev44&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Technical Skills
+
+- **CS Fundamentals:** Data Structures & Algorithms (700+ problems solved), Object-Oriented Programming (OOP), Operating Systems, DBMS
+- **Languages:** Java, JavaScript, TypeScript, Python, C/C++, SQL
+- **AI & LLM:** Retrieval-Augmented Generation (RAG), LangChain, LangGraph, Agentic AI Workflows, Prompt Engineering, Embeddings, Tool/Function Calling, LLM APIs (OpenAI, Gemini), Hugging Face
+- **Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, TailwindCSS, Shadcn UI, Socket.IO
+- **Databases & ORMs:** MongoDB, MySQL, Vector Databases (Pinecone, ChromaDB, FAISS)
+- **DevOps & Tools:** Git/GitHub, Redis, Postman, Terraform
+
+---
+
+### 🏆 Extracurricular & Community
+- **IIIT Vadodara Coding Club:** Organized and co-organized 3+ coding contests and 2 technical events, engaging 100+ participants.
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:anshahuja770@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ansh-ahuja-3081662b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://github.com/anshdev44"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
+### 📊 GitHub Activity & Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshdev44&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=anshdev44&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshdev44&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+</details>
+
+</div>
